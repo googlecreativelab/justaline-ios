@@ -7,7 +7,8 @@ This is not an official Google product, but an [AR Experiment](https://experimen
 
 Just a Line is also developed for Android. The open source code for Android can be found [here](https://github.com/googlecreativelab/justaline-android).
 
-<a href="https://itunes.apple.com/us/app/just-a-line-draw-in-ar/id1367242427?ls=1&mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/assets/shared/badges/en-us/appstore-lrg.svg) no-repeat;width:135px;height:40px;background-size:contain;"></a>
+[<img alt="Get it on Google Play" height="40px" src="https://linkmaker.itunes.apple.com/assets/shared/badges/en-us/appstore-lrg.svg" />](https://itunes.apple.com/us/app/just-a-line-draw-in-ar/id1367242427?ls=1&mt=8)
+
 
 ## Get started
 To build the project, first install all dependencies using [CocoaPods](https://guides.cocoapods.org/using/getting-started.html) by running
