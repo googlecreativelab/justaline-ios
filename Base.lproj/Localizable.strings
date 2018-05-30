@@ -1,0 +1,105 @@
+// Copyright 2018 Google LLC
+//
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+//
+//      http://www.apache.org/licenses/LICENSE-2.0
+//
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
+
+// More menu
+"menu_about" = "About";
+"menu_share_app" = "Share App";
+"menu_clear" = "Clear Drawing";
+"menu_overflow" = "More Options";
+"menu_close" = "Close";
+
+
+// Image and ImageButton Content Descriptions for Accessibility
+"content_description_undo" = "Undo";
+"content_description_join" = "Join Friend";
+"content_description_disconnect" = "Disconnect";
+
+"content_description_large_brush" = "Large Brush";
+"content_description_medium_brush" = "Medium Brush";
+"content_description_small_brush" = "Small Brush";
+"content_description_select_brush" = "Change Brush Size";
+"content_description_record" = "Record";
+"content_description_record_accessible" = "Tap to record a video for ten seconds.";
+"content_description_record_stop" = "Stop recording";
+
+// Clear Drawing Dialog
+"clear_confirmation_title" = "Clear your drawing?";
+"clear_confirmation_message" = "";
+"clear_confirmation_title_paired" = "Clear your drawings?";
+"clear_confirmation_message_paired" = "This will delete your partner\'s lines too";
+"clear" = "Clear";
+"cancel" = "Cancel";
+
+
+"try_again" = "Try Again";
+"ok" = "OK";
+
+"privacy_policy_url" = "https://www.google.com/policies/privacy/";
+"terms_url" = "https://www.google.com/policies/terms/";
+
+"terms_of_service" = "Terms of Service";
+"privacy_policy" = "Privacy Policy";
+"third_party_licenses" = "Third Party Licenses";
+"about_text" = "Just a Line is an AR Experiment that lets you make simple drawings in augmented reality. Draw on your own or with a friend, then hit record and share what you made with #JustaLine.\n\nTo learn more about this project \nvisit g.co/justaline";
+"about_text_link" = "g.co/justaline";
+"jal_url" = "https://g.co/justaline";
+
+"share_app_message" = "https://g.co/justaline";
+
+// Searching for surfaces
+"tracking_indicator_text_looking" = "Looking for a place for your line";
+"tracking_indicator_text_cant_find" = "Can\'t find a place for\nyour line";
+"tracking_indicator_text_anchor_not_tracking" = "Hmm... we can\'t find your\ndrawings. Try going back to\nwhere you started.";
+
+// Draw prompt
+"draw_prompt" = "Press your finger\nand move around";
+"draw_prompt_paired" = "Start drawing with your partner";
+"draw_action_accessible" = "Draw.";
+"draw_prompt_accessible" = "Double tap and hold your finger. Then move around.";
+
+// Errors
+"error_camera_not_available" = "Sorry, something went wrong. Please try again.";
+"error_resuming_session" = "Sorry, something went wrong";
+
+// AR Sync
+"pair_looking_for_partner" = "Waiting for your partner.\n\nIt works best when you\’re side-by-side.";
+"pair_connected" = "Partner found!";
+"pair_look_at_same_thing" = "Make sure you and your partner are\nside-by-side looking at the same thing";
+"pair_look_at_same_thing_accessible" = "Make sure you and your partner are side by side with your phones pointed at the same thing.";
+"pair_connect_phones" = "Stay put while we\nconnect your phones";
+"pair_synced" = "PAIRED!";
+"try_again" = "Try Again";
+"ready" = "Ready";
+"pair_lost_connection" = "Oops... Lost connection\nto partner";
+"pair_host_anchor_upload" = "Keep looking at your drawing while we connect you with your partner. This might take a moment.";
+"pair_no_data_connection_title" = "No Connection";
+"pair_no_data_connection" = "Looks like it\'s pen and paper until we find some internet";
+"pair_global_no_anchor" = "There is no anchor in the global room";
+"pair_global_connecting"= "Connecting to global room";
+"pair_unknown_error" = "We\'re not sure what happened... but it did";
+"pair_anchor_error" = "Something went wrong\nduring the sync";
+"pair_anchor_error_line2" = "Try again in a more distinct spot";
+"pair_global_localization_error" = "Couldn\'t find room. Are you in the right spot?";
+"pair_disconnect" = "All drawings will be erased.";
+"pair_disconnect_title" = "Disconnect?";
+"draw_with_partner" = "Draw with a partner";
+"pair_discovery_timeout" = "Hmm… we didn\'t find anyone nearby.";
+
+
+// Pairing UI
+"partner_icon_connected" = "PAIRED";
+"partner_icon_lost_partner" = "PARTNER\nLOST";
+
+"drawing_session_ended_title" = "Session Reset";
+"drawing_session_ended_message" = "The drawing session has been reset";
